@@ -1,0 +1,14 @@
+D:\PersonalLearning\latestFreelance\Test\TestProject\TestProject\bin\Debug\netcoreapp3.1\TestProject.exe
+D:\PersonalLearning\latestFreelance\Test\TestProject\TestProject\bin\Debug\netcoreapp3.1\TestProject.deps.json
+D:\PersonalLearning\latestFreelance\Test\TestProject\TestProject\bin\Debug\netcoreapp3.1\TestProject.runtimeconfig.json
+D:\PersonalLearning\latestFreelance\Test\TestProject\TestProject\bin\Debug\netcoreapp3.1\TestProject.runtimeconfig.dev.json
+D:\PersonalLearning\latestFreelance\Test\TestProject\TestProject\bin\Debug\netcoreapp3.1\TestProject.dll
+D:\PersonalLearning\latestFreelance\Test\TestProject\TestProject\bin\Debug\netcoreapp3.1\TestProject.pdb
+D:\PersonalLearning\latestFreelance\Test\TestProject\TestProject\obj\Debug\netcoreapp3.1\TestProject.csproj.AssemblyReference.cache
+D:\PersonalLearning\latestFreelance\Test\TestProject\TestProject\obj\Debug\netcoreapp3.1\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\PersonalLearning\latestFreelance\Test\TestProject\TestProject\obj\Debug\netcoreapp3.1\TestProject.AssemblyInfoInputs.cache
+D:\PersonalLearning\latestFreelance\Test\TestProject\TestProject\obj\Debug\netcoreapp3.1\TestProject.AssemblyInfo.cs
+D:\PersonalLearning\latestFreelance\Test\TestProject\TestProject\obj\Debug\netcoreapp3.1\TestProject.csproj.CoreCompileInputs.cache
+D:\PersonalLearning\latestFreelance\Test\TestProject\TestProject\obj\Debug\netcoreapp3.1\TestProject.dll
+D:\PersonalLearning\latestFreelance\Test\TestProject\TestProject\obj\Debug\netcoreapp3.1\TestProject.pdb
+D:\PersonalLearning\latestFreelance\Test\TestProject\TestProject\obj\Debug\netcoreapp3.1\TestProject.genruntimeconfig.cache
